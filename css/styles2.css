@@ -1,0 +1,22 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  margin: 2%;
+  padding: 0;
+  
+}
+
+h1 {
+  color: #333;
+}
+
+.banderaExtenso{
+  display: flex;
+  flex-wrap: wrap;
+}
+.texto{
+ margin: 1%;
+}
+#cerrar{
+  margin-top: 1%;
+}
